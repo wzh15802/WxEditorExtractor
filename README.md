@@ -25,8 +25,6 @@
 
 【更新日志】：[点击查看](https://mp.weixin.qq.com/s/zDzj4-tJRiCsKpehL4loVA)
 
-【下载地址】：[点击下载](https://github.com/wzh15802/WxEditor/releases/tag/%E5%BE%AE%E4%BF%A1%E7%BC%96%E8%BE%91%E5%99%A8)
-
 
 
 ### 更新日志
